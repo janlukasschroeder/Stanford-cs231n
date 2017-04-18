@@ -1,0 +1,8 @@
+_site
+.DS_Store
+*.swp
+
+.idea
+
+.assignments2016/assignment1/cs231n/datasets/cifar-10-batches-py
+.assignments2016/assignment2/cs231n/datasets/cifar-10-batches-py
